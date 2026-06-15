@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi 👋, I'm Asmit Raj
 
-<!--
-**asmitraj81/asmitraj81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Machine Learning | NLP | AI | Data Science
 
-Here are some ideas to get you started:
+🎓 Final Year Computer Science Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning **Advanced Machine Learning, NLP, and Deep Learning**
+
+💡 Interested in **Machine Learning, Artificial Intelligence, Data Science, and Software Development**
+
+🚀 Building projects in **Aspect-Based Sentiment Analysis (ABSA), RAG Systems, and NLP Applications**
+
+---
+
+## 🌐 Connect with Me
+
+* LinkedIn: [www.linkedin.com/in/asmit-raj-1217936](http://www.linkedin.com/in/asmit-raj-1217936)
+* GitHub: https://github.com/asmitraj81
+
+---
+
+## 🚀 Languages and Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,linux,vscode,pytorch,tensorflow,docker" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmitraj81\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asmitraj81\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔥 Featured Projects
+
+### Aspect Based Sentiment Analysis
+
+* Built an ABSA model using RoBERTa and Attention Mechanisms
+* Improved sentiment classification performance on SemEval datasets
+
+### RAG Based Question Answering System
+
+* Developed a Retrieval-Augmented Generation system using LangChain
+* Integrated semantic search and custom prompts for accurate responses
+
+### Computer Vision Seed Quality Assessment
+
+* Applied image processing and machine learning techniques for seed quality analysis
